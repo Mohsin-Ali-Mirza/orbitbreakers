@@ -6,8 +6,8 @@ A Game inspired by my childhood video games
 - Ratchet And Clanks Goofy Falling Animation
 - Berserk Mode from DOOM
 
-Windows Link:
-https://drive.google.com/drive/folders/11jvzXACgfZO3BCBBJ4-yfkRUZu1BdBjZ?usp=sharing
+**Download the Game**
+- Windows Link: https://drive.google.com/drive/folders/11jvzXACgfZO3BCBBJ4-yfkRUZu1BdBjZ?usp=sharing
 
-WebGPU Link:
-https://mohsin-ali-mirza.github.io/orbitbreakers/
+**Or Play Online**
+- WebGPU Link: https://mohsin-ali-mirza.github.io/orbitbreakers/
