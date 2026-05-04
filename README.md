@@ -1,5 +1,11 @@
 # Orbit Breakers
 
+A Game inspired by my childhood video games
+- Batman Arkham Knight's (Freeflow Combat)
+- Mario GameOver Screen
+- Ratchet And Clanks Goofy Falling Animation
+- Berserk Mode from DOOM
+
 Windows Link:
 https://drive.google.com/drive/folders/11jvzXACgfZO3BCBBJ4-yfkRUZu1BdBjZ?usp=sharing
 
